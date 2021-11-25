@@ -1,24 +1,15 @@
 <h1 align = "left"> Olá 👋, sou Luiz Lopes de Andrade Júnior  </h1>
 <h3 align = "left"> luizjrandrade </h3>
 
-- 🌱 Atualmente estou adquirindo mais experiência ** Springboot, Angular, React , RestApi, Docker, Flutter **
+- 🌱 Atualmente estou adquirindo mais experiência ** Springboot, Angular, React, RestApi, Docker, Flutter **
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/luizjrandrade?tab=repositories](https://github.com/luizjrandrade?tab=repositories)
 
-- 💬 Pergunte-me sobre ** Php, Java, Html, Css, Git **
+- 💬 Pergunte-me sobre ** Php, Java, Html, Css, Git, Gestão de Projetos Ágeis **
 
 - 📫 Como entrar em contato comigo **jr.luizandrade@gmail.com**
 
-<h3 align = "left"> Conecte-se a mim: </h3>
-<p align = "left">
-<a href="https://twitter.com/luizlopesdeand1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt ="luizlopesdeand1" height="30" width="40"/></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-lopes-de-andrade-junior-a5707551/" target="_blank"> <img align ="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "https://www.linkedin.com/in/luiz-lopes-de-andrade-junior-a5707551/" height ="30" width="40"/> </a>
-<a href ="https://fb.com/https://www.facebook.com/luizjr.lopesandrade/" target ="_blank "> <img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luizjr.lopesandrade/ " height="30" largura="40"/> </a>
-<a href="https://instagram.com/https://www.instagram.com/luizjrandrade/" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luizjrandrade/" height="30" largura="40"/> </a>
-</p>
-
-<h3 align =" left ">Meus esforços de trabalho nas ferramentas</h3>
+<h3 align =" left ">Meus esforços de trabalho estão nas ferramentas e tecnologias</h3>
 <p align = "left"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src ="https://angular.io/assets/images/logos/angular/angular.svg" alt ="angular" width ="40 "height ="40"/> </a> 
@@ -46,4 +37,13 @@
 
 <h3 align = "left"> Meu Stats Git: </h3>
 <p><img align = "left" src = "https://github-readme-stats.vercel.app/api?username=luizjrandrade&show_icons=true&locale=en" alt = "luizjrandrade" /> </p>
+
+<h3 align = "left"> Conecte-se a mim: </h3>
+<p align = "left">
+<a href="https://twitter.com/luizlopesdeand1" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt ="luizlopesdeand1" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/luiz-lopes-de-andrade-junior-a5707551/" target="_blank"> <img align ="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt = "https://www.linkedin.com/in/luiz-lopes-de-andrade-junior-a5707551/" height ="30" width="40"/> </a>
+<a href ="https://fb.com/https://www.facebook.com/luizjr.lopesandrade/" target ="_blank "> <img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luizjr.lopesandrade/ " height="30" largura="40"/> </a>
+<a href="https://instagram.com/https://www.instagram.com/luizjrandrade/" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/luizjrandrade/" height="30" largura="40"/> </a>
+</p>
 
